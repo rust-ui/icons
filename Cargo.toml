@@ -1,6 +1,6 @@
 [package]
 name = "icons"
-version = "0.18.0"
+version = "0.18.1"
 authors = ["Rustify"]
 homepage = "https://rust-ui.com/icons"
 repository = "https://github.com/rust-ui/icons"
